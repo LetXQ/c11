@@ -2,7 +2,7 @@
 
 #include "ngx_conf.h"
 #include "ngx_string.h"
-#include "common_def.h"
+#include "ngx_macro.h"
 
 
 // 静态成员初始化
